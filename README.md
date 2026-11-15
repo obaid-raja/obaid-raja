@@ -12,9 +12,9 @@ I turn messy operational and commercial data into forecasts, dashboards and clea
 
 **Featured projects**
 
-| Project | Question it answers | Tools |
-|---|---|---|
-| [Raw-Material Reorder Planner](https://github.com/obaid-raja/raw-material-reorder-planner) | When should a feed mill order its ingredients, and how much? Forecast-led ordering cut lost output by 60% in a simulated test year · [live app](https://raw-material-reorder-planner-rzestztljzvzswyghm5jbb.streamlit.app/) | Python, Holt-Winters, Streamlit |
+| Project | Question it answers | Tools | Try it |
+|---|---|---|---|
+| [Raw-Material Reorder Planner](https://github.com/obaid-raja/raw-material-reorder-planner) | When should a feed mill order its ingredients, and how much? Forecast-led ordering cut lost output by 60% in a simulated test year. | Python, Holt-Winters, Streamlit | **[▶ Live app](https://raw-material-reorder-planner-rzestztljzvzswyghm5jbb.streamlit.app/)** |
 
 <!-- Add a row as each new repo goes live. Keep only real, published repos here. -->
 

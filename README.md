@@ -10,12 +10,12 @@ I turn messy operational and commercial data into forecasts, dashboards and clea
 - **BI:** Power BI, Tableau, Qlik, Google Analytics
 - **Automation and AI:** Make, LLM-assisted reporting workflows
 
-<!-- PROJECTS: uncomment and fill in as each repo goes live. Keep only real, published repos here.
 **Featured projects**
 
 | Project | Question it answers | Tools |
 |---|---|---|
-| [repo-name](https://github.com/obaid-raja/repo-name) | One line business question | Python, SQL |
--->
+| [Raw-Material Reorder Planner](https://github.com/obaid-raja/raw-material-reorder-planner) | When should a feed mill order its ingredients, and how much? Forecast-led ordering cut lost output by 60% in a simulated test year | Python, Holt-Winters, Streamlit |
+
+<!-- Add a row as each new repo goes live. Keep only real, published repos here. -->
 
 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/obaidullah-masood-raja-225795218) · rajaobaidullahmasood@gmail.com

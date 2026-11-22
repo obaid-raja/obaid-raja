@@ -20,4 +20,4 @@ I turn messy operational and commercial data into forecasts, dashboards and clea
 
 <!-- Add a row as each new repo goes live. Keep only real, published repos here. -->
 
-**Get in touch:** [LinkedIn](https://www.linkedin.com/in/obaidullah-masood-raja-225795218) · rajaobaidullahmasood@gmail.com
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/raja-obaid) · rajaobaidullahmasood@gmail.com
